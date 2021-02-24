@@ -1,0 +1,5 @@
+[credentials]
+
+    [credentials.wikidata]
+    wikidata-user = "<Your bot username>@PyPIDataBot"
+    wikidata-pass = "password@password"

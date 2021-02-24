@@ -130,3 +130,7 @@ dmypy.json
 
 # repl.it
 .replit
+
+# configuration files for PyPIDataBot
+cred.toml
+config.toml
