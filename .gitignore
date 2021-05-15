@@ -134,3 +134,4 @@ dmypy.json
 # configuration files for PyPIDataBot
 cred.toml
 config.toml
+pypidatabot/data/index.txt
